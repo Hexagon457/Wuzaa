@@ -4,6 +4,7 @@ subtitle: "Jetzt auch auf deinem Lieblingsserver"
 author: "Hexagon457"
 image: "img/e.png"
 date:   2019-04-21 20:00:00
+category: "general"
 ---
 
 ### Skyblock auf Wuzaa?
