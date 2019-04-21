@@ -1,8 +1,8 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Wuzaa
+description: Lost Wuzaa, die neue art Skyblock zu spielen.
+keywords: Minecraft, Lost, Wuzaa
+author: Hexagon457 
 baseurl: "/Wuzaa" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 logo: "/img/logo.png"
