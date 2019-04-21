@@ -6,7 +6,7 @@ layout: default
     <div class="meta">
         <img class="meta__avatar" src="{{ page.avatar | relative_url }}" />
         <span class="meta__author">{{ page.author }}</span>
-        <span class="meta__date">{{ page.date | date: "%Y-%m-%d" }}</span>
+        <span class="meta__date">{{ page.date | date: "%d.%m.%Y" }}</span>
     </div>
     {{ page.content }}
 </div>
