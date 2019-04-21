@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<a href="{{ post.id }}">
+<a href="{{ post.id | relative_url }}">
     <div class="card">
         <div class="card__container card__container--closed">
             <svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
