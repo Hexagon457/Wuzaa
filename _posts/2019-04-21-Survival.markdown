@@ -1,0 +1,20 @@
+---
+title:  "Survival/Plotwelt"
+subtitle: "Jetzt auch auf deinem Lieblingsserver"
+author: "Hexagon457"
+image: "img/f.jpg"
+date:   2019-04-21 20:00:00
+category: general
+---
+
+### Survival/Plotwelt
+Seit neustem haben wir auf Wuzaa neben Skyblock auch eine Survival Welt zur verfügung :D Hier besteht die Möglichkeit das klassische Minecraft in vollen Zügen zu geniessen, das ganze wird abgerundet durch das MCmmo Plugin, einer Plotwelt und dem Reiz, Airdrops in der Farmwelt nachzujagen.
+
+Momentan steckt der Server noch in den Kinderschuhen und kam bisher etwas kurz... Aber dennoch befindet sich das Projekt weiterhin im Fokus unserer Aufmerksamkeit und wird bei entsprechender Nachrfrage auch weiter ausgebaut.
+
+Ihr könnt bis zu 4 Plots besitzen und diese sogar miteinander verbinden, wie man das Plugin handhabt, erfahrt ihr ingame durch: /plot help
+
+Des weiteren gibt es am Spawn ein Portal zum Nether sowie zum End :D
+
+Wenn ihr mehr über das MCmmo Plugin erfahren wollt verwendet /mcmmo help oder besucht www.Google.de
+
