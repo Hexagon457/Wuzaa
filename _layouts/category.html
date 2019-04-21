@@ -2,7 +2,13 @@
 layout: default
 ---
 
-{% for post in site.categories["general"] %}
+<div class="content">
+    <div class="wrapper">
+        <h1>{{ page.title }}</h1>
+    </div>
+</div>
+
+{% for post in site.categories[page.category] %}
 <a href="{{ post.id | relative_url }}">
     <div class="card">
         <div class="card__container card__container--closed">
@@ -13,7 +19,8 @@ layout: default
                         <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
                     </clipPath>
                 </defs>
-                <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}">
+                <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                    xlink:href="/{{ post.image }}">
                 </image>
             </svg>
             <div class="card__content">

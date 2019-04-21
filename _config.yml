@@ -9,5 +9,7 @@ logo: "/img/logo.png"
 menu:
   - title: Home
     url: /Wuzaa
+  - title: Anleitungen
+    url: /help
   - title: Test
     url: https://google.de
