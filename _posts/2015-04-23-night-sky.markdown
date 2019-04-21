@@ -1,20 +1,21 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
-author: "Wferr"
+title:  "Unterstützung für die Website"
+subtitle: "Ich kann immer Hilfe gebrauchen"
+author: "Hexagon457"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   2019-04-21 20:00:00
 category: general
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Tatkräftig helfen
+Wie euch evtl aufgefallen ist, gibt es seit einiger Zeit kein Forum mehr. Ich fand es Schade im Internet keine Anlaufstelle mit Anleitungen und Neuigkeiten rund um unsren Server mehr zu finden, also hab ich mich nun an die Arbeit gemacht und etwas neues auf die Beine gestellt. Da ich mir hier wahrlich eine Mammutaufgabe ausgesucht habe, dachte ich mir ich bitte euch einfach mal um unterstützung :D
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Und zwar geht es um folgendes:
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Ich brauche reichlich Erklärungen und Anleitungen, da ich aber vollzeit arbeite und unser Server nach über 3 Jahren Lost 2.0 wirklich reichlich erklärungbedarf bietet, schaffe ich das ganze nur sehr langsam im alleingang... Hier kommt ihr ins Spiel, wenn euch ein Thema auf Lost besonders am Herzen liegt, dann packt euren Text Editor aus und schreibt mir ein paar Zeilen :D 
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Vorzugsweise stimmt ihr euch vorher ingame mit mir ab zu welchem Thema ihr eine Anleitung verfassen möchtet, nicht das wir gleichzeitig am selben Thema arbeiten.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Ob euer Text es auf die Internetseite schafft hängt ganz von der Qualität ab XD Ich werde das ganze einheitlich gestalten so, dass es wirklich nur um die reinen Inhalte geht, Bunte überschriften und sonstiges werden von mir angepasst! Sollte ich mich für euren Beitrag entscheiden, werdet ihr auch Selbstverständlich als Autor angegeben :D
+
+Bedenkt aber das eure Texte jederzeit durch andere/bessere ersetzt werden könnten. 
