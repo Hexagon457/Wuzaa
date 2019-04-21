@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign authorImage = "/img/authors/" | append: page.author | append: ".png" | relative_url %}
+{% assign authorImage = site.baseurl | append: "/img/authors/" | append: page.author | append: ".png" | relative_url %}
 <div class="card__copy">
     <div class="meta">
         <img class="meta__avatar" src="{{ authorImage }}" />
