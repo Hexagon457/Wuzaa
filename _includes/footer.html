@@ -1,0 +1,13 @@
+<footer>
+    <div class="container">
+        <div class="wrapper links">
+            {% for link in site.footerLinks %}
+                {% if link.url and link.title %}
+                    <a href="{{ link.url }}">
+                        {{ link.title }}
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</footer>

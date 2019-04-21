@@ -16,6 +16,24 @@ html {
     height: 100px;
 }
 
+footer .wrapper {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: black;
+    opacity: 0.5;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer a {
+    color: white;
+}
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 /*CARD */
 
 .card {
@@ -121,7 +139,6 @@ html {
 .card__copy {
     background-color: white;
     font-size: 1.25em;
-    max-width: 900px;
     margin: 0 auto;
     padding: 25px 30px 100px;
     color: #3b393d;

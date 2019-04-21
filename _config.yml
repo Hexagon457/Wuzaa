@@ -6,6 +6,11 @@ author: Hexagon457
 baseurl: "/Wuzaa" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 logo: "/img/logo.png"
+footerLinks:
+  - title: Test
+    url: https://google.de
+  - title: Test 2
+    url: https://google.de
 menu:
   - title: Home
     url: /Wuzaa
