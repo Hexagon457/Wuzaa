@@ -1,6 +1,6 @@
 ---
 title:  "Skyblock"
-subtitle: "Der gute alte Cobbler"
+subtitle: "Jetzt auch auf deinem Lieblingsserver"
 author: "Hexagon457"
 avatar: "img/authors/Hexagon457.png"
 image: "img/e.png"
@@ -8,7 +8,6 @@ date:   2019-04-21 20:00:00
 ---
 
 ### Skyblock auf Wuzaa?
-
 Wie ihr der Überschrift schon entnehmen könnt haben wir jetzt einen Skyblock Server auf Wuzaa.
 
 Erreichen könnt ihr das ganze durch: /Server Sky
