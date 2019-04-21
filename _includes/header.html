@@ -1,0 +1,13 @@
+<a href="{{ base_url }}">
+    <img class="logo" src="{{ site.logo }}"/>
+</a>
+
+<nav class="links">
+    {% for link in site.menu %}
+        {% if link.url and link.title %}
+            <a href="{{ link.url }}">
+                {{ link.title }}
+            </a>
+        {% endif %}
+    {% endfor %}
+</nav>
