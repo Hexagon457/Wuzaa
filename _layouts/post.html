@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-
+{% assign authorImage = "/img/authors/" | append: page.author | append: ".png" | relative_url %}
 <div class="card__copy">
     <div class="meta">
-        <img class="meta__avatar" src="{{ page.avatar | relative_url }}" />
+        <img class="meta__avatar" src="{{ authorImage }}" />
         <span class="meta__author">{{ page.author }}</span>
         <span class="meta__date">{{ page.date | date: "%d.%m.%Y" }}</span>
     </div>
