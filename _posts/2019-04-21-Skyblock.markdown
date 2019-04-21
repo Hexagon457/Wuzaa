@@ -3,11 +3,11 @@ title:  "Skyblock"
 subtitle: "Der gute alte Cobbler"
 author: "Hexagon457"
 avatar: "img/authors/Hexagon457.png"
-image: "img/e.jpg"
+image: "img/e.png"
 date:   2019-04-21 20:00:00
 ---
 
-### Skyblock aud Wuzaa?
+### Skyblock auf Wuzaa?
 
 Wie ihr der Überschrift schon entnehmen könnt haben wir jetzt einen Skyblock Server auf Wuzaa.
 
@@ -21,6 +21,6 @@ Bisher bieten wir euch neben dem klassischen Cobbler auch das MCmmo Plugin, sowi
 Möglichkeit Items zu versteigern. Darüber hinaus gibt es bereits Zahlreiche Challenges die es zu
 erledigen gilt, am besten ihr macht euch Ingame selbst ein Bild davon.
 
-Wenn ihr mehr über das MCmmo Plugin erfahren möchtet besucht: www.weissnochnich.de
+Wenn ihr mehr über das MCmmo Plugin erfahren möchtet besucht: www.Google.de
 
 Ansonsten seht ihr alle wichtigen Befehle mit /is help oder /mcmmo help
