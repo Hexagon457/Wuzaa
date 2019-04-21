@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "de" }}">
 
 {%- include head.html -%}
-<body>
+<body data-baseurl="{{ site.baseurl }}">
   <div class="bg"></div>
   <div class="container">
     <header class="header">
@@ -16,5 +16,10 @@
   </div>
   {%- include footer.html -%}
 </body>
+
+<script>
+  var baseurl = $('body').data('baseurl');
+  $('.bg').css("background-image", 'url("' + baseurl + '/img/background.jpg")')
+</script>
 
 </html>
