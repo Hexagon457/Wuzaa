@@ -47,19 +47,6 @@ var demo = (function (window) {
      */
     var init = function () {
 
-        // For options see: https://github.com/qrohlf/Trianglify
-        var pattern = Trianglify({
-            width: window.innerWidth,
-            height: window.innerHeight,
-            cell_size: 90,
-            variance: 1,
-            stroke_width: 1,
-            x_colors: 'random',
-            y_colors: 'random'
-        }).svg(); // Render as SVG.
-
-        _mapPolygons(pattern);
-
         _bindCards();
 
         _bindHashChange();
@@ -155,10 +142,6 @@ var demo = (function (window) {
         var tweenOtherCards = _showHideOtherCards(id);
 
         if (!card.isOpen) {
-            // Open sequence.
-
-            _setPatternBgImg($(this).find(SELECTORS.cardImage).find('image'));
-
             sequence.add(tweenOtherCards);
             sequence.add(card.openCard(_onCardMove), 0);
 

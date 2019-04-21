@@ -1,4 +1,8 @@
 
+.logo {
+	height: 100px;
+}
+
 /*CARD */
 
 .card {
@@ -281,6 +285,7 @@ a:focus {
 
 .links {
 	margin: 2em 0 0;
+	font-size: 16pt;
 }
 
 .links a {
