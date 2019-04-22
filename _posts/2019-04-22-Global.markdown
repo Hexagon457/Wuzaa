@@ -1,0 +1,17 @@
+---
+title:  "Global Chat"
+subtitle: "Jetzt auch Serverübergreifend chatten"
+author: "Hexagon457"
+image: "img/d.jpg"
+date:   2019-04-22 07:00:00
+category: general
+---
+
+### Globaler Chat
+Nur nochmal als kleine Info für alle die mit dem Plugin noch nicht vertraut sind. Als wir auch einen Plot und einen Skyblock Server bekamen, war unsere Kommunikation doch stark eingeschränkt, aus diesem Grund hat LindAn79 nun eine Möglichkeit geschaffen sich über diese Grenzen hinweg zu setzen.
+
+Benutzt einfach /Global und schon seit ihr im Globalen Chat, jeder kann eure Nachrichten lesen.
+
+Wollt ihr das ganze wieder rückgängig machen, dann verwendet /Local und ihr nur noch auf eurem Server.
+
+Natürlich kann man auch im lokalen Chat die Nachrichten aus dem Globalen lesen, ihr müsst euch also keine Sorgen machen etwas zu verpassen :D Sogar eine msg auf einen anderen Server ist mit dem Global Chat möglich, allerdings müsst ihr den Namen manuell voll ausschreiben. Da sich die Person nicht auf dem selben Server befindet ist auch das tabben nicht möglich...
