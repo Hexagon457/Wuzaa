@@ -2,7 +2,7 @@
 title:  "NPC Map"
 subtitle: "Das ganze wird überarbeitet"
 author: "Hexagon457"
-image: "img/d.jpg"
+image: "img/NPCmap.png"
 date:   2019-04-22 07:00:00
 category: general
 ---
