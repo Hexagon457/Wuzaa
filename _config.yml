@@ -1,7 +1,7 @@
 # Site settings
 title: Wuzaa
 description: Lost Wuzaa, die neue art Skyblock zu spielen.
-keywords: Minecraft, Lost, Wuzaa
+keywords: Minecraft, Lost, Wuzaa, Skyblock
 author: Hexagon457 
 baseurl: "/Wuzaa" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
