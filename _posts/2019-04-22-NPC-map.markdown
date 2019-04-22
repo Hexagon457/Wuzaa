@@ -1,0 +1,17 @@
+---
+title:  "NPC Map"
+subtitle: "Das ganze wird überarbeitet"
+author: "Hexagon457"
+image: "img/d.jpg"
+date:   2019-04-22 07:00:00
+category: general
+---
+
+### NPC Map 2.0
+Euch ist mit Sicherheit aufgefallen das die aktuelle NPC map recht veraltet ist, das liegt daran, dass diese von einem Spieler erstellt wurde, der nun nicht mehr hier spielt... Ich habe die Map vorerst dennoch hier mit eingebunden, einfach weils immernoch besser ist als gar nix. Ich arbeite zur Zeit mit Hochdruck an einer Lösung für eine neue NPC Map, bis es soweit ist, verwenden wir die alte allerdings weiterhin.
+
+Das ganze stellt sich leider als recht kompliziert heraus, deshalb und wegen der neuen Internetseite die ich nun pflege, wird die neue Map leider noch etwas Zeit beanspruchen.
+
+Nicht das ich keine Lust hätte, aber die NPCs müssen alle einzelnd von mir auf der karte eingetragen werden, ausserdem muss ich die Karte erstmal aus mehreren kleinen Bildern zusammen puzzlen.
+
+Sobald die NPC Map 2.0 da ist, gibt es auf der Startseite einen entsprechen Hinweis :D
