@@ -2,7 +2,7 @@
 title:  "Global Chat"
 subtitle: "Jetzt auch Serverübergreifend chatten"
 author: "Hexagon457"
-image: "img/d.jpg"
+image: "img/GlobalChat.png"
 date:   2019-04-22 07:00:00
 category: general
 ---
