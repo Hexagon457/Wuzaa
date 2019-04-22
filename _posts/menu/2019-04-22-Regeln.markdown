@@ -7,4 +7,73 @@ date:   2019-04-22 07:00:00
 ---
 
 ### Wuzaa Regeln
-Hier kommt demnächst extrem viel text XD
+Leider halten wir euch auf Wuzaa einige Einschränkungen parat, dies ist nicht um euch zu ärgern, sondern einfach weil wir keine Streitigkeiten haben wollen! Wenn ihr länger auf dem Server spielt gehen wir davon aus, dass ihr die Regeln gelesen, verstanden und akzeptiert habt!
+
+#### Verhaltendkodex und Chatregeln
+- Im Öffentlichen und Privatem Chat, hersscht ein gesittetes Umgamgsklima.
+
+- Spieler sind aufgefordet, private Konversationen über die Nachrichtenfunktion mit   /msg Name zu führen.
+
+- Das mehrmalige Wiederholen einer Nachricht ist nicht gestattet und wird als Spam    gewertet, auch dann wenn sie leicht verändert wird! Ausnahme sind Shopwerbungen     von denen maximal eine pro Shop und Stunde geduldet wird.
+
+- Rassistische, sexistische und/oder diskriminierende Nachrichten sind sowohl im      öffentlichen, als auch im privaten Chat strengstens untersagt
+
+- Fremdwerbung in Form von Nachrichten, Schildern, Bauwerken, Youtube usw. für        andere Server, Minecraft Communities oder sonstigen Dingen, die nichts mit          Lost.Wuzaa.de zu tun haben ist stregstens untersagt
+
+- Werbung für Wuzaa.de auf anderen Servern oder Internetseiten die nichts mit uns     zu tun haben wird nicht geduldet
+
+- Nutze keine Neulinge wegen ihrer unwissenheit selbstsüchtig aus
+
+- Den Anweisungen des Serverteams ist folge zu leisten. Dazu gehören: Owner,          Administrator, Developer, Moderator und Supporter
+
+- Das wiederholte fragen (betteln) nach Geld oder Items ist untersagt
+
+- Alle sonstigen Handlungen die Wuzaa.de und seinen Spielern schaden sind             untersagt. Das heisst, nur weil etwas nicht explizit verboten ist, ist es nicht     automatisch erlaubt
+
+#### Bugs und Spielfehler
+- Das ausnutzen und veröffentlichen von Spielfehlern (sogenannten Bugs) ist           strengstens untersagt
+
+- Das Mitwissen über Ausnutzung und/oder Verbreitung solcher Spielfehler, ist         unverzüglich dem Serverteam zu melden und wird ansonsten als aktives ausnutzen      des Bugs gewertet
+
+- Das absichtliche Auslösen von Vorgängen, die den Server über dem maximal            vorgesehem Niveau belasten, ist strengstens unstersagt
+
+#### Erstattung von Coins,Items oder anderen Spielinhalten
+- Generell gilt, dass keinerlei verlorene Spielinhalte, seien es Coins, Items, xp     oder sonstwas, einer Erstattungsgarantie unterliegen. Sollte etwas verloren gehen,  muss von entgültigem Verlust ausgegangen werden. Dies gilt ebenfalls, sollte der    Verlust Server/Spielfehler bedingt stattfinden. 
+
+- Das wiederholte fragen nach Entschädigung ist unangebracht und wird abgemahnt.
+
+- Von dem Server  werden keine Spielinhalte verschenkt oder verkauft, um die          Fairness zu gewährleisten sind Spieler dazu aufgefordert dies ebenfalls so zu       handhaben.
+
+- Spielinhalte welche durch Eigenverschulden zerstört wurden (Griefen, durch das      einladen fremder Spieler), gehen in der Regel unwiderruflich verloren.
+
+#### Bauregeln
+
+- Bauwerke von rassistischen, sexistischen und/oder diskriminierenden, sowie von       Geschlechtsteilen sind untersagt.
+
+- Redstoneclocks sind verboten und werden vom Server automatisch gestoppt, die        Umgehung von diesem Mechanismus ist ebenfalls untersagt und wird entsprechend       geahndet.
+
+- Generell ist jede Art von Unendlichkeitsschleife untersagt, seien es 2 Trichter     die ein Item umhertauschen, eine im Kreis fahrende lore oder die besagte Redstone   Clock
+
+- Generell ist jede Art von Maschine die zum Automatischem farmen gedacht ist,        wasser/redstone/kolben etc. strengstens untersagt. Hierbei stellt die Auslegung     ob automatisch oder halbautomatisch reine Haarspalterei dar und wird als            Provokation gewertet.
+
+- Eine Ausnahme stellen Kakteen dar, von diesen wird eine Autofarm mit bis zu 20      Kakteen pro Insel geduldet.
+
+- Eine komplizierte Redstoneschaltung ist vom Serverteam abzusegnen.
+
+- Es werden nur 20 Trichter pro Insel geduldet, dementsprechend kann man auch mehr    nicht platzieren
+
+- Normale Bäume dürfen nur in maximal 10er Gruppen abgegeerntet werden. Das           bedeutet, eine Reihe von 10 Blöcken is geduldet, nicht 10 Mammutbäumen!
+
+- Das griefen anderer Spieler und ihrer Inseln ist strengstens untersagt
+
+- Mobs unterliegen einer Grenze von maximal 100 Einheiten pro Insel. /insel Info
+
+- Auch das kurzzeitge paaren über die Mobgrenze hinaus und direkte Schlachten, ist    strengtens untersagt, zuwiderhandundlung wird entsprechend geahndet.
+
+- Entities unterliegen einer Grenze von maximal 200 Einheiten pro Insel. /insel info
+
+#### Sonstiges
+
+
+
+
