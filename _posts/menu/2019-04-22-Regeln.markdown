@@ -18,7 +18,7 @@ Leider halten wir euch auf Wuzaa einige Einschränkungen parat, dies ist nicht u
 
 - Rassistische, sexistische und/oder diskriminierende Nachrichten sind sowohl im      öffentlichen, als auch im privaten Chat strengstens untersagt
 
-- Fremdwerbung in Form von Nachrichten, Schildern, Bauwerken, Youtube usw. für        andere Server, Minecraft Communities oder sonstigen Dingen, die nichts mit          Lost.Wuzaa.de zu tun haben ist stregstens untersagt
+- Fremdwerbung in Form von Nachrichten, Schildern, Bauwerken, Youtube usw. für        andere Server, Minecraft Communities oder sonstigen Dingen, die nichts mit          Lost.Wuzaa.de zu tun haben ist strengstens untersagt
 
 - Werbung für Wuzaa.de auf anderen Servern oder Internetseiten die nichts mit uns     zu tun haben wird nicht geduldet
 
@@ -73,6 +73,18 @@ Leider halten wir euch auf Wuzaa einige Einschränkungen parat, dies ist nicht u
 - Entities unterliegen einer Grenze von maximal 200 Einheiten pro Insel. /insel info
 
 #### Sonstiges
+
+- Jegliche Arten von Bots/Hacks und Aushebelungen von gewollten Mechaniken (Anti      AFK Pool, Autoklicker usw), sind strengstens untersagt
+
+- Cyberattacken gegen unseren Server und Dienste von Wuzaa.de werden verfolgt und     zur Anzeige gebracht.
+
+- Lost Wuzaa ist ein privates Projekt, die Spieler sind zwar jederzeit willkommen,    gelten allerdings nur als "geduldet". Von daher behalten wir uns das Recht vor,     Spieler ohne Angabe von Gründen und nach eigner Auslegung unserer Regeln            permanent vom Spiel auszuschliessen.
+
+- Der Server ist für ein Alter ab 16 Jahren ausgelegt, das beudetet nicht, dass       jüngere Spieler nicht geduldet sind, aber ein gewisses Maß an benehmen wird         vorrausgesetzt.
+
+- Diese regeln sind nicht abschliessend und können jederzeit erweitert oder der       Situation angepasst werden.
+
+
 
 
 

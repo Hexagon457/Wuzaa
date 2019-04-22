@@ -2,7 +2,7 @@
 title:  "Die Neue WuZaa Seite"
 subtitle: "Auch in deinem Browser zuhause"
 author: "Hexagon457"
-image: "img/d.jpg"
+image: "img/WuzaaSeite.png"
 date:   2019-04-22 08:00:00
 category: general
 ---
