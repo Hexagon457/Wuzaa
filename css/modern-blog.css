@@ -296,6 +296,10 @@ a:focus {
     color: #999;
 }
 
+.category__headline {
+    color: #ffffff;
+}
+
 /* Top Navigation Style */
 
 .links {
@@ -306,6 +310,12 @@ a:focus {
 .links a {
     display: inline-block;
     margin: 0 .5em;
+    color: #ffffff;
+}
+
+.links a:focus,
+.links a:hover {
+    color: #bcbcbc;
 }
 
 /* cards wrapper and close btn */
