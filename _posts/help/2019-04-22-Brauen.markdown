@@ -2,7 +2,7 @@
 title:  "Das Brauen"
 subtitle: "Wie mache ich Alkohol?"
 author: "Hexagon457"
-image: "img/d.jpg"
+image: "img/Brauen.png"
 date:   2019-04-22 11:00:00
 category: help
 ---
