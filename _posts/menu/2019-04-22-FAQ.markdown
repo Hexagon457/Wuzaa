@@ -7,69 +7,96 @@ date:   2019-04-22 07:00:00
 ---
 
 ### Häufig gestellte Fragen
-Wenn ihr mal nicht weiter wisst, wird das nen Grund haben der bereits andere zur selben Frage getrieben hat, also schaut euch hier unbedingt gründlich um. Dann müsst ihr auch nicht in Zukunft von uns auf dieses FAQ verwiesen werden ^^
+Wenn ihr mal nicht weiter wisst, wird das einen Grund haben der bereits andere zur selben Frage getrieben hat. Schaut euch hier gründlich um, dann brauchen wir auch nicht in Zukunft nicht auf dieses FAQ verweisen ^^
 
 #### Was macht man mit einem Drachenei?
-Mit Dracheneiern könnt ihr Tatsächlich eine ganze Menge anstellen. Von den Bonustruhen aus den Mobwelten die solche als Schlüssel brauchen, über Generator Brennstoff bis hin zur Tauschware bei einem Dekokopf Händler ist jeder nur erdenklich Verwendungszweck vertreten. Wer es genau wissen will schaut einmal bei den Anleitungen nach :D
+Mit Dracheneiern könnt ihr eine ganze Menge anstellen. Von den Bonustruhen, über Generator Brennstoff bis hin zur Tauschware ist jeder nur erdenkliche Verwendungszweck vertreten. Wer es genau wissen will schaut einmal bei den Anleitungen nach :D
 
 - Link der noch nicht existiert XD
 
 #### Woher bekommt man Dracheneier?
-Wie ihr im Tutorial sicher schon bemerkt habt, kann es pasieren das Questgeber euch welche als Belohnung für eure Mühen geben. Es gibt auch Schildersuchen wo es nicht ausgeschlossen ist das sich der Aufwand lohnt ^^ Aber hauptsächlich bekommt ihr durch das Voten Nachschub der begehrten Handelsware. Entweder ihr benutzt /vote oder die unten stehenden Links dafür :D
+Dracheneier bekommt man in vielen Sitiuationen, zb durchs questen oder in Events. Aber hauptsächlich bekommt ihr durch das Voten Nachschub der begehrten Handelsware. Entweder ihr benutzt /vote oder die unten stehenden Links dafür :D
 
 - Link der noch nicht existiert XD
 - Link der noch nicht existiert XD
 - Link der noch nicht existiert XD
 
 #### Wie erstelle ich eine Insel?
+Verwende /menu oder /insel erstellen
 
 #### Wie macht man einen Shop?
+Den Shop Teleport setzt man mit /insel setshop, der Rest ist simples Chestshop.
 
 #### Wie benennt man seinen Shop um?
+Dazu muss der Name der Insel geändert werden. /insel name "Inselname"
 
 #### Wie setz ich meinen Shop Teleport um?
-
-#### Wie benennt man seine Insel um?
+Verwende /insel setspawn
 
 #### Wie gibt man jemandem Gastrechte?
+Das geht erst ab dem Epischen Rang, schaue am besten einmal bei /basar vorbei.
+
+#### Wie füge ich jemandem als Mitglied hinzu?
+Verwende /insel einladen "Name", das zukünftige Mitglied kann die Einladung dann mit /einladungen abrufen.
 
 #### Wie kommt man an Sand?
+Am Meeresgrund unter der Insel lässt sich Sand farmen.
 
 #### Was bringt die bessere Lava?
+Je höher die Verzauberung, desto besser ist die Lava. Dabei ist nicht die Brenndauer auschlaggebend, sondern die Wahrscheinlichkeit mit der Erze etc kommen.
 
 #### Wie ändert man den Chatmodus?
+Verwende /Global für den globalen Chat und /local für den lokalen Chat.
 
-#### Wie wie wechselt man den Server?
+#### Wie wechselt man den Server?
+Verwende /server "Wunschserver", es gibt: Lobby, main, Sky und Extra
 
 #### Gibt es einen TS?
+Ja, es ist allerdings eine Freischaltung notwendig: ts.wuzaa.de
 
 #### Wo finde ich den und den NPC?
+Im menu Oben findest du eine NPC map
 
 #### Warum spawnen keine Mobs auf der Insel?
+Auf Inseln spawnt nichts von selbst, um Mobdrops zu farmen, besuche die Mobwelten am Spawn. Tiere lassen sich durch Spawneier kriegen.
 
 #### Wo bekomme ich Spawneier her?
+Am Spawn gibt es einen Adminshop, der NPC namens Sippi (NPC map) verkauft welche.
 
 #### Ab welchem Lvl wird man Siedler?
+Die Ränge haben nichts mit dem lvl zu tun, dafür gibt es die Hauptquestreihe. Dein 
+lvl ist zum verzaubern wichtig. Schaue am besten einmal bei den Anleitungen unter  
+
+"Verzaubern und Reparieren" und "Questgeber und ihre Farben" 
 
 #### Wie macht man einen Amboss?
+Einen Amboss gibt es hier nicht, Items reparieren kannst du bei einem NPC namens 
+Cain (NPC map). Schaue am besten einmal bei den Anleitungen unter 
 
-#### Wie macht man einen Enchantmenttable?
+"Enchanten und reparieren"
 
-#### Wie repariert man Items?
+#### Wie macht man einen Verzauberungstisch?
+Einen Verzauberungstisch gibt es hier nicht, Item werden beim Craften automatisch enchantet. Je höher dein lvl desto besser deine Verzauberungen. Schaue am besten einmal bei den Anleitungen unter
 
-#### Wie bekommt man Verzauberungen?
+"Enchanten und Reparieren"
 
 #### Wie wird meine Insel grösser?
+Eine grössere Insel bekommt man in der Hauptquestreihe. Jeder abgeschlossene Questgeber gibt euch 2 Radius dazu, am Anfang sogar 4.
 
 #### Kann man mit Villagern handeln?
+Nein
 
 #### Wie bekommt man Villager?
+Gar nicht mehr, Villager die du auf anderen Inseln siehst, sind ein Überbleibsel von früher. Die sind aber sowieso nur Dekoration...
 
 #### Was macht man mit Smaragden?
+Da Villager die nicht nehmen, gibt es hier einen NPC namens Smaggi (NPC map) bei dem man den sonst nutzlosen Kram eintauschen kann
 
 #### Was macht man mit Nethersternen?
+Du kannst mehr als nur Leuchtfeuer damit machen, es gibt einen NPC namens Sternhändler (NPC map) bei dem sich Netherterne gegen Inselhöhe tauschen lassen.
 
 #### Wo ist Hugo?
+Falls du Am Spawn und der NPC Map nach dem suchst, kommst du dir schnell vor als würdest du eigentlich Waldo suchen... Hugo findest du bei /basar
 
 #### 
 

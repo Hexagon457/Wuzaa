@@ -37,7 +37,7 @@ Leider halten wir euch auf Wuzaa einige Einschränkungen parat, dies ist nicht u
 
 - Das absichtliche Auslösen von Vorgängen, die den Server über dem maximal            vorgesehem Niveau belasten, ist strengstens unstersagt
 
-#### Erstattung von Coins,Items oder anderen Spielinhalten
+#### Erstattung von Coins, Items oder anderen Spielinhalten
 - Generell gilt, dass keinerlei verlorene Spielinhalte, seien es Coins, Items, xp     oder sonstwas, einer Erstattungsgarantie unterliegen. Sollte etwas verloren gehen,  muss von entgültigem Verlust ausgegangen werden. Dies gilt ebenfalls, sollte der    Verlust Server/Spielfehler bedingt stattfinden. 
 
 - Das wiederholte fragen nach Entschädigung ist unangebracht und wird abgemahnt.
