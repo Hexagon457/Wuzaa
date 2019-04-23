@@ -8,10 +8,10 @@ category: general
 ---
 
 ### Wuzaa.de 2.0
-Da unser Forum generell sehr wenig genutzt wurde und die Leute sich auch nur widerwillig dort angemeldet haben, haben wir entschieden uns davon zu trennen... Viele Informationen waren veraltet, die Anleitungen von vor dem Update und das ganze hätte viel Aufwand für etwas ohnehin ungewolltes erfordert. Das Forum hatte abohneer auch seine guten Seiten, zb waren viele Infos/Anleitungen nur dort abrufbar, bzw deutlich bequemer zu lesen. Aus diesem Grund testen wir nun ein anderes Format für unsere Präsens im Internet.
+Da unser Forum generell sehr wenig genutzt wurde und die Leute sich auch nur widerwillig dort angemeldet haben, haben wir entschieden uns davon zu trennen... Viele Informationen waren veraltet, die Anleitungen von vor dem Update und das ganze hätte viel Aufwand für etwas ohnehin ungewolltes erfordert. Das Forum hatte aber auch seine guten Seiten, zb waren viele Infos/Anleitungen nur dort abrufbar, bzw deutlich bequemer zu lesen. Aus diesem Grund testen wir nun ein anderes Format für unsere Präsens im Internet.
 
 ### Was ist neu?
-Im gegensatz zu einem Forum, wo die Inhalte massgeblich von den Beiträgen der Spieler geprägt sind, dient die neue Internetseite als reines "offizielles" Informationsportal von WuZaa. Ihr müsst euch nicht mehr anmelden um unsere Inhalte zu sehen, könnt könnt aber auch selbst nichts beitragen.
+Im gegensatz zu einem Forum, wo die Inhalte massgeblich von den Beiträgen der Spieler geprägt sind, dient die neue Internetseite als reines "offizielles" Informationsportal von WuZaa. Ihr müsst euch nicht mehr anmelden um unsere Inhalte zu sehen, könnt aber auch selbst nichts beitragen.
 
 ### Wozu dann das ganze?
 Es geht hauptächlich darum, euch über euren Lieblingsserver auf dem laufenden zu halten, wenn es etwas neues gibt erfahrt ihr hier stehts die wichtigsten Infos dazu. Ausserdem findet ihr hier eine NPC Map, bald eine Questübersicht, zahlreiche Anleitungen und vorallem die Server Regeln
