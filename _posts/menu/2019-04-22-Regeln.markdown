@@ -10,7 +10,7 @@ date:   2019-04-22 07:00:00
 Leider halten wir euch auf Wuzaa einige Einschränkungen parat, dies ist nicht um euch zu ärgern, sondern einfach weil wir keine Streitigkeiten haben wollen! Wenn ihr länger auf dem Server spielt gehen wir davon aus, dass ihr die Regeln gelesen, verstanden und akzeptiert habt!
 
 #### Verhaltendkodex und Chatregeln
-- Im Öffentlichen und Privatem Chat, hersscht ein gesittetes Umgamgsklima.
+- Im Öffentlichen und Privatem Chat, herrscht ein gesittetes Umgamgsklima.
 
 - Spieler sind aufgefordet, private Konversationen über die Nachrichtenfunktion mit   /msg Name zu führen.
 
