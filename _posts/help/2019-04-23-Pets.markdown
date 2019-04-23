@@ -2,7 +2,7 @@
 title:  "Haustiere (Pets)"
 subtitle: "Wie man sie bekommt und bedient"
 author: "Hexagon457"
-image: "img/d.jpg"
+image: "img/Pets.png"
 date:   2019-04-23 18:00:00
 category: help
 ---
