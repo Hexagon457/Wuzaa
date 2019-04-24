@@ -96,8 +96,10 @@ Da Villager die nicht nehmen, gibt es hier einen NPC namens Smaggi (NPC map) bei
 Du kannst mehr als nur Leuchtfeuer damit machen, es gibt einen NPC namens Sternhändler (NPC map) bei dem sich Netherterne gegen Inselhöhe tauschen lassen.
 
 #### Wo ist Hugo?
-Falls du Am Spawn und der NPC Map nach dem suchst, kommst du dir schnell vor als würdest du eigentlich Waldo suchen... Hugo findest du bei /basar
+Falls du Am Spawn und in der NPC Map nach dem suchst, kommst du dir schnell vor als würdest du eigentlich Waldo suchen... Hugo findest du bei /basar
 
-#### 
+#### Warum sind meine Peteier zu Schweinen geworden?
 
+#### Ich habe mein Petei verloren, wie bekomme ich ein neues?
 
+#### Wo finde ich den Stallmeister?
