@@ -1,7 +1,7 @@
 ---
 title:  "Serverteam"
 subtitle: "Mit besonders wichtigen Infos"
-author: "Hexagon457"
+author: "Puniw24"
 image: "img/d.jpg"
 date:   2019-04-22 07:00:00
 ---
