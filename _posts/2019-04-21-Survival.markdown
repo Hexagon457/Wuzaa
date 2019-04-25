@@ -2,7 +2,7 @@
 title:  "Survival/Plotwelt"
 subtitle: "Jetzt auch auf deinem Lieblingsserver"
 author: "Hexagon457"
-image: "img/f.png"
+image: "img/survival.png"
 date:   2019-04-21 20:00:00
 category: general
 ---

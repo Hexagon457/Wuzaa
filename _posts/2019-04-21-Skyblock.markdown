@@ -2,7 +2,7 @@
 title:  "Skyblock"
 subtitle: "Jetzt auch auf deinem Lieblingsserver"
 author: "Hexagon457"
-image: "img/e.png"
+image: "img/e.jpg"
 date:   2019-04-21 20:00:00
 category: general
 ---

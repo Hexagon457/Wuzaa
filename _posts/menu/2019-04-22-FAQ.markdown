@@ -7,7 +7,9 @@ date:   2019-04-22 07:00:00
 ---
 
 ### Häufig gestellte Fragen
-Wenn ihr mal nicht weiter wisst, wird das einen Grund haben der bereits andere zur selben Frage getrieben hat. Schaut euch hier gründlich um, dann brauchen wir auch nicht in Zukunft nicht auf dieses FAQ verweisen ^^
+Wenn ihr mal nicht weiter wisst, wird das einen Grund haben der bereits andere zur selben Frage getrieben hat. Schaut euch hier gründlich um, dann brauchen wir auch nicht in Zukunft auf dieses FAQ verweisen ^^
+
+##Hinweis:** Viele der nachfolgenden Fragen könnte man auch mit /menu beantworten.
 
 #### Was macht man mit einem Drachenei?
 Mit Dracheneiern könnt ihr eine ganze Menge anstellen. Von den Bonustruhen, über Generator Brennstoff bis hin zur Tauschware ist jeder nur erdenkliche Verwendungszweck vertreten. Wer es genau wissen will schaut einmal bei den Anleitungen nach :D
@@ -22,7 +24,7 @@ Dracheneier bekommt man in vielen Sitiuationen, zb durchs questen oder in Events
 - Link der noch nicht existiert XD
 
 #### Wie erstelle ich eine Insel?
-Verwende /menu oder /insel erstellen
+Verwende /insel erstellen
 
 #### Wie macht man einen Shop?
 Den Shop Teleport setzt man mit /insel setshop, der Rest ist simples Chestshop.
@@ -31,7 +33,10 @@ Den Shop Teleport setzt man mit /insel setshop, der Rest ist simples Chestshop.
 Dazu muss der Name der Insel geändert werden. /insel name "Inselname"
 
 #### Wie setz ich meinen Shop Teleport um?
-Verwende /insel setspawn
+Verwende /insel setshop
+
+#### Wie setze ich meinen Insel Teleport um?
+Verwende /insel sethome
 
 #### Wie gibt man jemandem Gastrechte?
 Das geht erst ab dem Epischen Rang, schaue am besten einmal bei /basar vorbei.
@@ -99,6 +104,7 @@ Du kannst mehr als nur Leuchtfeuer damit machen, es gibt einen NPC namens Sternh
 Falls du Am Spawn und in der NPC Map nach dem suchst, kommst du dir schnell vor als würdest du eigentlich Waldo suchen... Hugo findest du bei /basar
 
 #### Warum sind meine Peteier zu Schweinen geworden?
+Beim update auf die Version 1.13 sind die Pets leider etwas in Mitleidenschaft gezogen worden. Beim Stallmeister am Spawn bekommst du ein neues.
 
 #### Ich habe mein Petei verloren, wie bekomme ich ein neues?
 

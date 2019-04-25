@@ -3,9 +3,61 @@ title:  "Voten und Dracheneier"
 subtitle: "Was hab ich von dem ganzen?"
 author: "Hexagon457"
 image: "img/d.jpg"
-date:   2019-04-23 18:00:00
+date:   2019-04-25 19:00:00
 category: help
 ---
 
-### Überschrift
-Hier kommt bei Zeiten ein Text.
+### Das Votesystem
+Wie ihr ingame sicherlich bereits mitbekommen habt, gibt es hier ein recht 
+komplexes Votesystem. Der bekannte Teil des Votens ist selbsterklärend und Bedarf 
+wohl keiner weiteren Erläuterung (Links, Namen eintragen, Capchas etc). Aber dann 
+gibt es da noch den anderen Teil, den Teil der mehr Fragen aufwirft als er 
+beantwortet... Und genau diese Fragen will ich hier mit euch behandeln. Es geht 
+unter anderem darum was es mit den Dracheneiern auf sich hat, oder wieso ihr 
+plötzlich kürbiskuchen in eurem Inventar habt. Ihr wolltet sicher nie ausprobieren 
+was passiert wenn ihr offline votet, hier erfahrt ihr all das und noch mehr.
+
+
+### Voten
+Es gibt die Möglichkeit bis zu 3 mal am Tag für Wuzaa.de abzustimmen, als 
+Dankeschön dafür erhaltet ihr 1000 Coins, sowie 1 Drachenei pro Vote. Ausserdem 
+könnt ihr ebenfalls vom Skyblock Server aus abstimmen um eine alternative Belohnung 
+zu erhalten. Zum Voten könnt ihr jederzeit ingame */vote* verwenden, damit ruft man 
+die unten stehenden Links auf. Wir freuen und bedanken uns für die Unterstützung :D
+
+- Link
+- Link
+- Zelda
+
+### Dracheneier
+Nun ist natürlich die Frage was man mit den Dracheneiern überhaupt anstellen kann, 
+im normalen Minecraft hält sich der Nutzen ja wahrlich in Grenzen. Darüber braucht 
+ihr euch hier aber keine Sorgen zu machen. Wir halten euch reichlich 
+Anwendungsmöglichkeiten für die begehrten Items parat, genau das macht sie so 
+begehrt. Ihr könnt unter anderem im Generator (*Link*) euren Brennstoff damit 
+aufwerten. Darüber hinaus lässt sich Höllische Lava auch mit Dracheneiern zusammen 
+umtauschen, besucht dazu Lui im Spawnhaus. Ansonsten gibt es noch den Kopfhändler 
+namens Roberts (*NPC map*), dieser hat immer mal wieder neue Dekoköpfe im Angebot.
+
+
+### Voteparty
+Als zusätzlichen Ansporn zum Voten haben wir uns ein besonderes Feature ausgedacht, mit der Voteparty bringen wir nicht nur ein "neues" Item ins Spiel, das ganze hängt auch mit einem Questgeber zusammen der es wirklich in sich hat. Die VoteParty funktioniert indem die Votes aller Spieler mit gezählt werden und immer wenn der Zähler den 20. Vote registriert hat, wird eine VoteParty ausgelöst. Wie viele Votes noch fehlen, lässt sich mit */vp* herausfinden. Alle Spieler die zum genannten Zeitpunkt Online sind, bekommen das besagte "neue" Item.
+
+- *Bild einer Henkersmahlzeit*
+
+Am Spawn findet ihr einen NPC names Votan, dieser steckt in grossen Schwierigkeiten und versucht nun dem Henker zu entgehen. Er hat sich einen Trick ausgedacht, solange er noch am essen ist, kann er auch nicht gehängt werden. Da kommt ihr ins Spiel, mit euren gesammelten Henkersmahlzeiten könnt ihr dazu beitragen das der gute Votan uns noch lange erhalten bleibt. Wenn ihr ihn bei seinem Plan unterstützt,wird er euch auch selbstverständlich dafür entlohnen. Also spart keine Kosten und Mühen, um die 20 wohl hartnäckigsten Quests auf Lost zu knacken ^^
+
+- *Bild einer Henkerkarte*
+
+Die Henkerkarten, die es als Belohnung für die mühsamen Quests gibt, sind momentan leider unbrauchbar... Mit dem Update auf die Version 1.13 ist uns leider der Händler abhanden gekommen, der diese angenommen hat. Es gab früher die Möglichkeit Golempetkisten mit einer 10% wahrscheinlichkeit dafür zu ertauschen. Da sich das Petsystem mit besagtem Update allerdings grundlegend gewandelt hat, ist davon auszugehen das diese Verwendung keine Option mehr ist oder sein wird. An dieser Stelle könnt ihr wieder aufatmen :D Das bedeutet nämlich nicht, dass die Quests sinnlos, eure Mahlzeiten verschwendet und Henkerkarten müll sind. Für die seltenen Items wird in Zukunft ein neues Konzept erdacht und nach Möglichkeit auch Zeitnah umgesetzt. Wie lange das dauern wird, ist zu diesen Zeitpunkt noch nicht abzuschätzen.
+
+### Sonstiges
+Es gibt auch schlechte Nachrichten, Leider kann es vorkommen, dass eine Voteseite 
+hin und wieder nicht funktioniert, da unser Plugin/Server allerdings nicht Schuld 
+am versagen der Seite ist, können wir in einem solchen Fall keine Erstattung 
+gewährleisten. Ihr könnt allerdings eure IP welchseln, den Verlauf/Cache löschen 
+und es erneut versuchen :D
+
+
+
+*Ich mach das hier bei zeiten fertig, hab den Text am Handy geschrieben, daher keine links etc.*
